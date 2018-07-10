@@ -1,3 +1,6 @@
+html{
+  background: beige;
+}
 .navbar .navbar-nav .navbar-brand {
   display: inline-block;
   float: none;
@@ -9,6 +12,6 @@ text-align: center;
 }
 
 .mx-auto{
-  padding-left: 58px;
+  padding-left: 66px;
 }
 
