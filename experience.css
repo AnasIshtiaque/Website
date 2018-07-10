@@ -1,0 +1,14 @@
+.navbar .navbar-nav .navbar-brand {
+  display: inline-block;
+  float: none;
+  vertical-align: top;
+  text-align: center;
+}
+.navbar .navbar-collapse {
+text-align: center;
+}
+
+.mx-auto{
+  padding-left: 58px;
+}
+
